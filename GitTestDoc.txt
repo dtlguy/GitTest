@@ -1,1 +1,3 @@
 The is the first line of my new text document
+The is the second line of my new text document
+The is the third line of my new text document
